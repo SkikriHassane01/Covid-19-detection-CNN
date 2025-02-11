@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+opencv-python
+tensorflow
+plotly
+livelossplot
